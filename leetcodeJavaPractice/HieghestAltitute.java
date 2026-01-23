@@ -1,4 +1,5 @@
 package javaPrograms.leetcodeJavaPractice;
+// java practice
 
 class Solution {
     public int largestAltitude(int[] gain) {
